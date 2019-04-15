@@ -1,5 +1,5 @@
-# Awesome WYSIWYG [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome WYSIWYG 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 > A curated list of awesome WYSIWYG editors
 
 
@@ -37,6 +37,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 - [Tui Editor](http://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible
+- [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented.
 
 
 ## JQuery Based
